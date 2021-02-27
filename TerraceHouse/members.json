@@ -1,0 +1,206 @@
+{
+    "seasonFiveMembers": [
+        {
+            "englishName":"Kaori Watanabe",
+            "japaneseName": "渡邉香織",
+            "profession": "Illustrator",
+            "birthDate" : "June 25, 1990",
+            "age": "28",
+            "episodes": "01 - 20",
+            "numberOfEpisodes": "20",
+            "instagramLink" : "foxco_kaori"
+        },
+        {
+            "englishName":"Shohei Matsuzaki",
+            "japaneseName": "松嵜翔平",
+            "profession": "Actor/Writer",
+            "birthDate" : "October 9, 1993",
+            "age": "25",
+            "episodes": "01 - 18",
+            "numberOfEpisodes": "18",
+            "instagramLink" : "matuzakishohei"
+            
+        },
+        {
+              "englishName":"Haruka Okuyama",
+              "japaneseName": "春花|奥山春花",
+              "profession": "Actress",
+              "birthDate" : "March 24, 1995",
+              "age": "24",
+              "episodes": "01 - 25",
+              "numberOfEpisodes": "25"
+              ,
+              "instagramLink" : "harukaoffi"
+          },
+        
+        {
+              "englishName":"Kenji Yoshihara",
+              "japaneseName": "|吉原健司",
+              "profession": "Musician",
+              "birthDate" : "June 2, 1987",
+              "age": "31",
+              "episodes": "01 - 14",
+              "numberOfEpisodes": "14",
+              "instagramLink" : "kenji_yoshihara"
+          },
+        
+        {
+              "englishName":"Risako Tanabe",
+              "japaneseName": "田辺莉咲子",
+              "profession": "Fitness trainer",
+              "birthDate" : "January 14, 1998",
+              "age": "21",
+              "episodes": "01 - 14",
+              "numberOfEpisodes": "14",
+              "instagramLink" : "risako_tanabe"
+          },
+        
+        {
+              "englishName":"Ruka Nishinoiri",
+              "japaneseName": "西野入流佳",
+              "profession": "Part-timer",
+              "birthDate" : "December 1, 1998",
+              "age": "20",
+              "episodes": "01 - 25",
+              "numberOfEpisodes": "25",
+              "instagramLink" : "rukanishinoiri2019"
+          },
+        
+        {
+              "englishName":"Emika Mizukoshi",
+              "japaneseName": "水越愛華",
+              "profession": "University student",
+              "birthDate" : "February 1, 1998",
+              "age": "21",
+              "episodes": "14-34",
+              "numberOfEpisodes": "21",
+              "instagramLink" : "iamemika21"
+          },
+        
+        {
+              "englishName":"Giuseppe Durato",
+              "japaneseName": "デュラト・ジュゼッペ",
+              "profession": "Mangaka",
+              "birthDate" : "December 24, 1992",
+              "age": "27",
+              "episodes": "14 - 26",
+              "numberOfEpisodes": "13",
+              "instagramLink" : "peppedesu"
+          },
+        
+        {
+              "englishName":"Ryo Tawatari",
+              "japaneseName": "田渡凌|田渡凌",
+              "profession": "Basketball Player",
+              "birthDate" : "June 29, 1993",
+              "age": "26",
+              "episodes": "18-32",
+              "numberOfEpisodes": "15",
+              "instagramLink" : "tawatariryo"
+          },
+        
+        {
+              "englishName":"Hana Kimura",
+              "japaneseName": "木村花|木村花",
+              "profession": "Professional wrestler",
+              "birthDate" : "September 3, 1997",
+              "age": "21",
+              "episodes": "20-42",
+              "numberOfEpisodes": "23",
+              "instagramLink" : "hanakimurafan"
+          },
+        
+        {
+              "englishName":"Violetta Razdumina",
+              "japaneseName": "ズドゥミナ・ヴィオレッタ",
+              "profession": "Aspiring actress",
+              "birthDate" : "October 4, 1995",
+              "age": "24",
+              "episodes": "26 - 42",
+              "numberOfEpisodes": "17",
+              "instagramLink" : "violapolt"
+          },
+        
+        {
+              "englishName":"Kai Kobayashi",
+              "japaneseName": "小林快",
+              "profession": "Comedian",
+              "birthDate" : "August 15, 1994",
+              "age": "25",
+              "episodes": "26 - 39",
+              "numberOfEpisodes": "14",
+              "instagramLink" : "kaicoxa"
+
+          },
+        
+        {
+              "englishName":"John Kimverlu Tupas",
+              "japaneseName": "トパス　ジョンキンバルー",
+              "profession": "Personal Assistant",
+              "birthDate" : "January 13, 1997",
+              "age": "22",
+              "episodes": "26 - 34",
+              "numberOfEpisodes": "9",
+              "instagramLink" : "tupasjohn_1_13"
+          },
+        
+        {
+              "englishName":"Toshiyuki Niino",
+              "japaneseName": "春花|奥山春花",
+              "profession": "Actress",
+              "birthDate" : "March 24, 1995",
+              "age": "24",
+              "episodes": "01 - 25",
+              "numberOfEpisodes": "25",
+              "instagramLink" : "niinotoshiyuki"
+          },
+        
+        {
+              "englishName":"Yume Yoshida",
+              "japaneseName": "吉田夢",
+              "profession": "Office Worker, Gravure Model",
+              "birthDate" : "October 18, 1995",
+              "age": "24",
+              "episodes": "34 - 42",
+              "numberOfEpisodes": "9",
+              "instagramLink" : "___yuume.18"
+          },
+        
+        {
+              "englishName":"Shion Suzuki",
+              "japaneseName": "鈴木志遠",
+              "profession": "University Student",
+              "birthDate" : "February 1, 1997",
+              "age": "22",
+              "episodes": "34 - 42",
+              "numberOfEpisodes": "9",
+              "instagramLink" : "shion10531"
+          },
+        
+        {
+              "englishName":"Reo Kanao",
+              "japaneseName": "金尾玲生",
+              "profession": "Professional Surfer/Entrepreneur",
+              "birthDate" : "June 24, 1992",
+              "age": "27",
+              "episodes": "39 - 42",
+              "numberOfEpisodes": "4",
+              "instagramLink" : ""
+          },
+        
+        {
+              "englishName":"Monroe Ron",
+              "japaneseName": "ロンモンロウ",
+              "profession": "Model/Singer",
+              "birthDate" : "July 31, 1995",
+              "age": "24",
+              "episodes": "42 - 42",
+              "numberOfEpisodes": "1",
+              "instagramLink" : "ronmonroe_official"
+          },
+        
+
+      
+    ]
+}
+
